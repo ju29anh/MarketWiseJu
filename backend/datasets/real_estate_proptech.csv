@@ -1,0 +1,49 @@
+Month,Date,Property_Project,Property_Type,Avg_Price_USD,Monthly_Transactions,Search_Interest,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,145000,1887,125,82,4.8,18.2,High
+2,2024-02,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,146160,1918,127,82,4.8,18.6,High
+3,2024-03,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,147320,1945,130,82,4.8,19.0,High
+4,2024-04,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,148480,1969,132,82,4.8,19.4,High
+5,2024-05,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,149640,1991,135,82,4.8,19.8,High
+6,2024-06,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,150800,2012,137,82,4.8,20.2,High
+7,2024-07,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,151960,2034,140,82,4.8,20.6,High
+8,2024-08,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,153120,2057,142,82,4.8,21.0,High
+9,2024-09,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,154280,2083,145,82,4.8,21.4,High
+10,2024-10,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,155440,2113,147,82,4.8,21.8,High
+11,2024-11,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,156600,2146,150,82,4.8,22.2,High
+12,2024-12,Căn Hộ Cao Cấp Vinhomes Grand Park,High-End Apartment,157760,2184,152,82,4.8,22.6,High
+1,2024-01,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,95000,2448,105,78,4.6,12.5,High
+2,2024-02,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,95760,2488,107,78,4.6,12.9,High
+3,2024-03,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,96520,2524,109,78,4.6,13.3,High
+4,2024-04,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,97280,2555,111,78,4.6,13.7,High
+5,2024-05,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,98040,2584,113,78,4.6,14.1,High
+6,2024-06,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,98800,2611,115,78,4.6,14.5,High
+7,2024-07,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,99560,2639,117,78,4.6,14.9,High
+8,2024-08,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,100320,2669,119,78,4.6,15.3,High
+9,2024-09,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,101080,2702,121,78,4.6,15.7,High
+10,2024-10,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,101840,2741,123,78,4.6,16.1,High
+11,2024-11,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,102600,2784,126,78,4.6,16.5,High
+12,2024-12,Chung Cư Trung Cấp Eco Green Saigon,Mid-End Condominium,103360,2833,128,78,4.6,16.9,High
+1,2024-01,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,195000,938,98,70,4.5,8.4,Medium
+2,2024-02,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,196560,953,99,70,4.5,8.8,Medium
+3,2024-03,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,198120,967,101,70,4.5,9.2,Medium
+4,2024-04,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,199680,979,103,70,4.5,9.6,Medium
+5,2024-05,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,201240,990,105,70,4.5,10.0,Medium
+6,2024-06,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,202800,1001,107,70,4.5,10.4,Medium
+7,2024-07,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,204360,1011,109,70,4.5,10.8,Medium
+8,2024-08,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,205920,1023,111,70,4.5,11.2,Medium
+9,2024-09,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,207480,1036,113,70,4.5,11.6,Medium
+10,2024-10,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,209040,1050,115,70,4.5,12.0,Medium
+11,2024-11,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,210600,1067,117,70,4.5,12.4,Medium
+12,2024-12,Đất Nền Đô Thị Vệ Tinh Aqua City,Townhouse & Land Plot,212160,1086,119,70,4.5,12.8,Medium
+1,2024-01,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,420000,316,85,65,4.7,5.2,Medium
+2,2024-02,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,423360,321,86,65,4.7,5.6,Medium
+3,2024-03,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,426720,326,88,65,4.7,6.0,Medium
+4,2024-04,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,430080,330,90,65,4.7,6.4,Medium
+5,2024-05,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,433440,333,91,65,4.7,6.8,Medium
+6,2024-06,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,436800,337,93,65,4.7,7.2,Medium
+7,2024-07,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,440160,340,95,65,4.7,7.6,Medium
+8,2024-08,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,443520,344,96,65,4.7,8.0,Medium
+9,2024-09,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,446880,349,98,65,4.7,8.4,Medium
+10,2024-10,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,450240,354,100,65,4.7,8.8,Medium
+11,2024-11,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,453600,359,102,65,4.7,9.2,Medium
+12,2024-12,Biệt Thự Nghỉ Dưỡng Sinh Thái SwanBay,Luxury Waterfront Villa,456960,366,103,65,4.7,9.6,Medium

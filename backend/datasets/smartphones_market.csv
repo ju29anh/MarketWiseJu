@@ -1,0 +1,41 @@
+Quarter,Date,Model_Name,Brand,Segment,Price_USD,Units_Shipped_K,Search_Interest,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Share_Pct,Market_Potential
+Q1-2023,2023-03,iPhone 15 Pro,Apple,Flagship,999,14200,98,85,4.7,11.2,19.5,High
+Q2-2023,2023-06,iPhone 15 Pro,Apple,Flagship,999,13800,94,86,4.7,-2.8,18.8,High
+Q3-2023,2023-09,iPhone 15 Pro,Apple,Flagship,999,18500,105,88,4.8,34.1,22.4,High
+Q4-2023,2023-12,iPhone 15 Pro,Apple,Flagship,999,23500,120,90,4.8,27.0,26.0,High
+Q1-2024,2024-03,iPhone 15 Pro,Apple,Flagship,949,15600,99,88,4.8,9.9,20.1,High
+Q2-2024,2024-06,iPhone 15 Pro,Apple,Flagship,949,14900,96,87,4.8,-4.5,19.3,High
+Q3-2024,2024-09,iPhone 15 Pro,Apple,Flagship,899,19800,110,89,4.9,32.9,23.5,High
+Q4-2024,2024-12,iPhone 15 Pro,Apple,Flagship,899,25200,128,92,4.9,27.3,27.1,High
+Q1-2023,2023-03,Galaxy S24 Ultra,Samsung,Flagship,1199,11500,92,84,4.6,8.5,15.8,High
+Q2-2023,2023-06,Galaxy S24 Ultra,Samsung,Flagship,1199,10900,88,85,4.6,-5.2,14.9,High
+Q3-2023,2023-09,Galaxy S24 Ultra,Samsung,Flagship,1149,12800,95,86,4.7,17.4,15.5,High
+Q4-2023,2023-12,Galaxy S24 Ultra,Samsung,Flagship,1099,16200,108,88,4.7,26.6,18.0,High
+Q1-2024,2024-03,Galaxy S24 Ultra,Samsung,Flagship,1099,13200,96,86,4.7,14.8,17.0,High
+Q2-2024,2024-06,Galaxy S24 Ultra,Samsung,Flagship,1049,12100,90,85,4.7,-8.3,15.7,High
+Q3-2024,2024-09,Galaxy S24 Ultra,Samsung,Flagship,999,14500,102,87,4.8,19.8,17.2,High
+Q4-2024,2024-12,Galaxy S24 Ultra,Samsung,Flagship,949,18100,115,89,4.8,24.8,19.4,High
+Q1-2023,2023-03,Redmi Note 13 Pro,Xiaomi,Mid-Range,320,18500,85,78,4.4,14.2,25.4,High
+Q2-2023,2023-06,Redmi Note 13 Pro,Xiaomi,Mid-Range,310,19200,87,79,4.4,3.8,26.2,High
+Q3-2023,2023-09,Redmi Note 13 Pro,Xiaomi,Mid-Range,299,21400,92,80,4.5,11.5,25.9,High
+Q4-2023,2023-12,Redmi Note 13 Pro,Xiaomi,Mid-Range,289,26800,104,82,4.5,25.2,29.6,High
+Q1-2024,2024-03,Redmi Note 13 Pro,Xiaomi,Mid-Range,280,20800,90,81,4.5,12.4,26.8,High
+Q2-2024,2024-06,Redmi Note 13 Pro,Xiaomi,Mid-Range,270,21500,93,82,4.5,3.4,27.9,High
+Q3-2024,2024-09,Redmi Note 13 Pro,Xiaomi,Mid-Range,260,24100,98,83,4.6,12.1,28.7,High
+Q4-2024,2024-12,Redmi Note 13 Pro,Xiaomi,Mid-Range,249,30500,112,85,4.6,26.6,32.8,High
+Q1-2023,2023-03,Vivo V30,Vivo,Mid-Range,380,8200,68,70,4.2,4.5,11.3,Medium
+Q2-2023,2023-06,Vivo V30,Vivo,Mid-Range,370,8400,69,71,4.2,2.4,11.5,Medium
+Q3-2023,2023-09,Vivo V30,Vivo,Mid-Range,360,9100,72,72,4.3,8.3,11.0,Medium
+Q4-2023,2023-12,Vivo V30,Vivo,Mid-Range,340,11200,80,74,4.3,23.1,12.4,Medium
+Q1-2024,2024-03,Vivo V30,Vivo,Mid-Range,330,8900,71,72,4.3,8.5,11.5,Medium
+Q2-2024,2024-06,Vivo V30,Vivo,Mid-Range,320,9200,73,73,4.3,3.4,11.9,Medium
+Q3-2024,2024-09,Vivo V30,Vivo,Mid-Range,310,10100,77,74,4.4,9.8,12.0,Medium
+Q4-2024,2024-12,Vivo V30,Vivo,Mid-Range,299,12600,85,76,4.4,24.8,13.5,Medium
+Q1-2023,2023-03,Nokia G42,HMD,Budget Entry,180,3100,42,55,3.9,-2.1,4.3,Low
+Q2-2023,2023-06,Nokia G42,HMD,Budget Entry,175,2950,40,55,3.9,-4.8,4.0,Low
+Q3-2023,2023-09,Nokia G42,HMD,Budget Entry,170,3050,41,56,4.0,3.4,3.7,Low
+Q4-2023,2023-12,Nokia G42,HMD,Budget Entry,160,3600,45,58,4.0,18.0,4.0,Low
+Q1-2024,2024-03,Nokia G42,HMD,Budget Entry,155,2800,38,56,4.0,-9.7,3.6,Low
+Q2-2024,2024-06,Nokia G42,HMD,Budget Entry,150,2700,37,56,4.0,-3.6,3.5,Low
+Q3-2024,2024-09,Nokia G42,HMD,Budget Entry,145,2850,39,57,4.1,5.6,3.4,Low
+Q4-2024,2024-12,Nokia G42,HMD,Budget Entry,139,3300,43,59,4.1,15.8,3.5,Low

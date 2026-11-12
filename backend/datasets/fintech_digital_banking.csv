@@ -1,0 +1,49 @@
+Month,Date,Fintech_Service,Segment,Monthly_Fee_USD,Active_Users_K,Search_Volume,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,32000,140,85,4.8,28.5,High
+2,2024-02,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,32800,142,85,4.8,29.0,High
+3,2024-03,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,33600,145,85,4.8,29.5,High
+4,2024-04,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,34400,148,85,4.8,30.0,High
+5,2024-05,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,35200,151,85,4.8,30.5,High
+6,2024-06,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,36000,154,85,4.8,31.0,High
+7,2024-07,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,36800,156,85,4.8,31.5,High
+8,2024-08,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,37600,159,85,4.8,32.0,High
+9,2024-09,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,38400,162,85,4.8,32.5,High
+10,2024-10,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,39200,165,85,4.8,33.0,High
+11,2024-11,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,40000,168,85,4.8,33.5,High
+12,2024-12,Ví Điện Tử MoMo Pay,Digital Wallet,0.0,40800,170,85,4.8,34.0,High
+1,2024-01,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,18500,115,82,4.7,24.2,High
+2,2024-02,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,18962,117,82,4.7,24.7,High
+3,2024-03,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,19425,119,82,4.7,25.2,High
+4,2024-04,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,19887,121,82,4.7,25.7,High
+5,2024-05,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,20350,124,82,4.7,26.2,High
+6,2024-06,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,20812,126,82,4.7,26.7,High
+7,2024-07,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,21275,128,82,4.7,27.2,High
+8,2024-08,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,21737,131,82,4.7,27.7,High
+9,2024-09,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,22200,133,82,4.7,28.2,High
+10,2024-10,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,22662,135,82,4.7,28.7,High
+11,2024-11,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,23125,138,82,4.7,29.2,High
+12,2024-12,Cổng Thanh Toán ZaloPay Merchant,Payment Gateway,15.0,23587,140,82,4.7,29.7,High
+1,2024-01,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,14200,105,78,4.6,19.8,High
+2,2024-02,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,14554,107,78,4.6,20.3,High
+3,2024-03,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,14910,109,78,4.6,20.8,High
+4,2024-04,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,15265,111,78,4.6,21.3,High
+5,2024-05,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,15620,113,78,4.6,21.8,High
+6,2024-06,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,15975,115,78,4.6,22.3,High
+7,2024-07,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,16329,117,78,4.6,22.8,High
+8,2024-08,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,16685,119,78,4.6,23.3,High
+9,2024-09,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,17040,121,78,4.6,23.8,High
+10,2024-10,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,17395,123,78,4.6,24.3,High
+11,2024-11,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,17750,126,78,4.6,24.8,High
+12,2024-12,Tài Khoản Số Cake by VPBank,Digital Banking,0.0,18105,128,78,4.6,25.3,High
+1,2024-01,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,9600,95,72,4.8,14.5,Medium
+2,2024-02,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,9840,96,72,4.8,15.0,Medium
+3,2024-03,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,10080,98,72,4.8,15.5,Medium
+4,2024-04,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,10320,100,72,4.8,16.0,Medium
+5,2024-05,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,10560,102,72,4.8,16.5,Medium
+6,2024-06,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,10800,104,72,4.8,17.0,Medium
+7,2024-07,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,11040,106,72,4.8,17.5,Medium
+8,2024-08,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,11280,108,72,4.8,18.0,Medium
+9,2024-09,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,11520,110,72,4.8,18.5,Medium
+10,2024-10,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,11760,112,72,4.8,19.0,Medium
+11,2024-11,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,12000,114,72,4.8,19.5,Medium
+12,2024-12,Nền Tảng Đầu Tư Chứng Khoán TCInvest,WealthTech & Trading,5.0,12240,115,72,4.8,20.0,Medium

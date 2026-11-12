@@ -1,0 +1,25 @@
+Month,Date,Tool_Name,Category,Pricing_Tier,Monthly_Sub_USD,Active_Users_K,Search_Volume,Churn_Rate_Pct,Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,AI Copywriting Assistant,Marketing SaaS,Pro Team,49,12.5,95,3.2,4.7,45.2,High
+2,2024-02,AI Copywriting Assistant,Marketing SaaS,Pro Team,49,13.8,98,3.1,4.7,10.4,High
+3,2024-03,AI Copywriting Assistant,Marketing SaaS,Pro Team,49,15.4,106,3.0,4.8,11.6,High
+4,2024-04,AI Copywriting Assistant,Marketing SaaS,Pro Team,45,17.2,114,2.9,4.8,11.7,High
+5,2024-05,AI Copywriting Assistant,Marketing SaaS,Pro Team,45,19.5,124,2.8,4.8,13.4,High
+6,2024-06,AI Copywriting Assistant,Marketing SaaS,Pro Team,45,22.1,135,2.7,4.8,13.3,High
+7,2024-07,AI Copywriting Assistant,Marketing SaaS,Pro Team,45,21.5,130,2.8,4.8,-2.7,High
+8,2024-08,AI Copywriting Assistant,Marketing SaaS,Pro Team,39,24.8,145,2.6,4.9,15.3,High
+9,2024-09,AI Copywriting Assistant,Marketing SaaS,Pro Team,39,27.6,156,2.5,4.9,11.3,High
+10,2024-10,AI Copywriting Assistant,Marketing SaaS,Pro Team,39,31.2,170,2.4,4.9,13.0,High
+11,2024-11,AI Copywriting Assistant,Marketing SaaS,Pro Team,35,39.5,205,2.2,4.9,26.6,High
+12,2024-12,AI Copywriting Assistant,Marketing SaaS,Pro Team,35,46.2,228,2.1,4.9,17.0,High
+1,2024-01,Cloud Project Tracker,Productivity SaaS,Business,29,8.5,82,4.5,4.4,12.5,High
+2,2024-02,Cloud Project Tracker,Productivity SaaS,Business,29,8.9,84,4.4,4.4,4.7,High
+3,2024-03,Cloud Project Tracker,Productivity SaaS,Business,29,9.5,88,4.3,4.5,6.7,High
+4,2024-04,Cloud Project Tracker,Productivity SaaS,Business,29,10.1,91,4.2,4.5,6.3,High
+5,2024-05,Cloud Project Tracker,Productivity SaaS,Business,25,10.8,95,4.1,4.5,6.9,High
+6,2024-06,Cloud Project Tracker,Productivity SaaS,Business,25,11.6,99,4.0,4.6,7.4,High
+7,2024-07,Cloud Project Tracker,Productivity SaaS,Business,25,11.2,97,4.1,4.6,-3.4,High
+8,2024-08,Cloud Project Tracker,Productivity SaaS,Business,25,12.1,104,3.9,4.6,8.0,High
+9,2024-09,Cloud Project Tracker,Productivity SaaS,Business,22,12.8,109,3.8,4.6,5.8,High
+10,2024-10,Cloud Project Tracker,Productivity SaaS,Business,22,13.7,115,3.7,4.7,7.0,High
+11,2024-11,Cloud Project Tracker,Productivity SaaS,Business,19,16.5,132,3.5,4.7,20.4,High
+12,2024-12,Cloud Project Tracker,Productivity SaaS,Business,19,18.2,142,3.4,4.7,10.3,High

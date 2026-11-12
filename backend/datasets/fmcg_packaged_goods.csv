@@ -1,0 +1,49 @@
+Month,Date,Product_Name,Category,Retail_Price_USD,Monthly_Units_K,Search_Interest,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,52000,110,85,4.8,14.2,High
+2,2024-02,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,53787,112,85,4.8,14.7,High
+3,2024-03,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,55392,115,85,4.8,15.2,High
+4,2024-04,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,56676,118,85,4.8,15.7,High
+5,2024-05,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,57578,121,85,4.8,16.2,High
+6,2024-06,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.18,58133,123,85,4.8,16.7,High
+7,2024-07,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,58460,126,85,4.8,15.2,High
+8,2024-08,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,58732,129,85,4.8,17.7,High
+9,2024-09,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,59139,132,85,4.8,18.2,High
+10,2024-10,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,59835,134,85,4.8,18.7,High
+11,2024-11,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,60904,137,85,4.8,19.2,High
+12,2024-12,Mì Hảo Hảo Tôm Chua Cay,Instant Noodles,0.19,62339,140,85,4.8,19.7,High
+1,2024-01,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.45,38000,102,80,4.9,9.8,High
+2,2024-02,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.46,39306,104,80,4.9,10.3,High
+3,2024-03,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.46,40479,107,80,4.9,10.8,High
+4,2024-04,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.47,41417,109,80,4.9,11.3,High
+5,2024-05,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.48,42076,112,80,4.9,11.8,High
+6,2024-06,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.49,42482,114,80,4.9,12.3,High
+7,2024-07,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.49,42720,117,80,4.9,10.8,High
+8,2024-08,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.5,42920,119,80,4.9,13.3,High
+9,2024-09,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.51,43217,122,80,4.9,13.8,High
+10,2024-10,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.52,43725,124,80,4.9,14.3,High
+11,2024-11,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.52,44506,127,80,4.9,14.8,High
+12,2024-12,Sữa Tươi Tiệt Trùng Vinamilk 100%,Dairy & Milk,1.53,45555,130,80,4.9,15.3,High
+1,2024-01,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.65,29000,95,78,4.7,11.5,High
+2,2024-02,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.65,29997,97,78,4.7,12.0,High
+3,2024-03,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.66,30892,99,78,4.7,12.5,High
+4,2024-04,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.66,31607,102,78,4.7,13.0,High
+5,2024-05,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.66,32111,104,78,4.7,13.5,High
+6,2024-06,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.67,32420,106,78,4.7,14.0,High
+7,2024-07,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.67,32602,109,78,4.7,12.5,High
+8,2024-08,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.67,32754,111,78,4.7,15.0,High
+9,2024-09,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.68,32981,114,78,4.7,15.5,High
+10,2024-10,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.68,33369,116,78,4.7,16.0,High
+11,2024-11,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.68,33965,118,78,4.7,16.5,High
+12,2024-12,Nước Tăng Lực Red Bull 250ml,Energy Drink,0.69,34766,121,78,4.7,17.0,High
+1,2024-01,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.95,18500,88,72,4.6,6.2,Medium
+2,2024-02,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.95,19136,90,72,4.6,6.7,Medium
+3,2024-03,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.96,19707,92,72,4.6,7.2,Medium
+4,2024-04,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.96,20163,94,72,4.6,7.7,Medium
+5,2024-05,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.97,20484,96,72,4.6,8.2,Medium
+6,2024-06,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.97,20682,99,72,4.6,8.7,Medium
+7,2024-07,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.98,20798,101,72,4.6,7.2,Medium
+8,2024-08,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.98,20895,103,72,4.6,9.7,Medium
+9,2024-09,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.99,21039,105,72,4.6,10.2,Medium
+10,2024-10,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,0.99,21287,107,72,4.6,10.7,Medium
+11,2024-11,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,1.0,21667,110,72,4.6,11.2,Medium
+12,2024-12,Bánh Quy Oreo Kẹp Kem Vani,Confectionery & Snack,1.0,22178,112,72,4.6,11.7,Medium

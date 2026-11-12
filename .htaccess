@@ -1,0 +1,3 @@
+# This checkout contains Python source, databases and private .env files.
+# Run via start.bat; serve only frontend/dist from a separate production web root.
+Require all denied

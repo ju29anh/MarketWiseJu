@@ -1,0 +1,49 @@
+Month,Date,Service_Name,Service_Type,Retail_Price_USD,Monthly_Bookings,Search_Volume,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,8400,120,80,4.8,22.4,High
+2,2024-02,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,7247,103,80,4.8,22.7,High
+3,2024-03,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,8652,122,80,4.8,23.0,High
+4,2024-04,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,8778,123,80,4.8,23.3,High
+5,2024-05,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,8904,124,80,4.8,23.6,High
+6,2024-06,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,322,11287,157,80,4.8,23.9,High
+7,2024-07,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,322,11445,159,80,4.8,24.2,High
+8,2024-08,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,9282,128,80,4.8,24.5,High
+9,2024-09,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,7996,110,80,4.8,24.8,High
+10,2024-10,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,9534,130,80,4.8,25.1,High
+11,2024-11,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,9660,132,80,4.8,25.4,High
+12,2024-12,Tour Trọn Gói Phú Quốc 3N2Đ,Package Tour,280,9786,133,80,4.8,25.7,High
+1,2024-01,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,24500,135,88,4.6,15.8,High
+2,2024-02,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,21137,115,88,4.6,16.1,High
+3,2024-03,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,25235,137,88,4.6,16.4,High
+4,2024-04,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,25602,139,88,4.6,16.7,High
+5,2024-05,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,25970,140,88,4.6,17.0,High
+6,2024-06,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,184,32921,177,88,4.6,17.3,High
+7,2024-07,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,184,33381,178,88,4.6,17.6,High
+8,2024-08,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,27072,144,88,4.6,17.9,High
+9,2024-09,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,23324,123,88,4.6,18.2,High
+10,2024-10,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,27807,147,88,4.6,18.5,High
+11,2024-11,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,28174,148,88,4.6,18.8,High
+12,2024-12,Vé Máy Bay Khứ Hồi Hà Nội - TP.HCM,Airline Booking,160,28542,149,88,4.6,19.1,High
+1,2024-01,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,6200,108,76,4.9,18.5,High
+2,2024-02,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,5349,92,76,4.9,18.8,High
+3,2024-03,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,6386,110,76,4.9,19.1,High
+4,2024-04,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,6479,111,76,4.9,19.4,High
+5,2024-05,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,6572,112,76,4.9,19.7,High
+6,2024-06,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,138,8331,141,76,4.9,20.0,High
+7,2024-07,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,138,8447,143,76,4.9,20.3,High
+8,2024-08,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,6851,115,76,4.9,20.6,High
+9,2024-09,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,5902,99,76,4.9,20.9,High
+10,2024-10,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,7037,117,76,4.9,21.2,High
+11,2024-11,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,7129,118,76,4.9,21.5,High
+12,2024-12,Khách Sạn Nghỉ Dưỡng Da Nang Beach Resort,Luxury Hospitality,120,7223,119,76,4.9,21.8,High
+1,2024-01,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,14200,98,72,4.7,12.0,Medium
+2,2024-02,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,12251,84,72,4.7,12.3,Medium
+3,2024-03,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,14626,99,72,4.7,12.6,Medium
+4,2024-04,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,14838,100,72,4.7,12.9,Medium
+5,2024-05,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,15052,101,72,4.7,13.2,Medium
+6,2024-06,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,51,19081,128,72,4.7,13.5,Medium
+7,2024-07,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,51,19347,129,72,4.7,13.8,Medium
+8,2024-08,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,15691,104,72,4.7,14.1,Medium
+9,2024-09,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,13518,89,72,4.7,14.4,Medium
+10,2024-10,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,16117,106,72,4.7,14.7,Medium
+11,2024-11,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,16329,107,72,4.7,15.0,Medium
+12,2024-12,Vé Vui Chơi Giải Trí VinWonders & Safari,Theme Park & Attraction,45,16543,108,72,4.7,15.3,Medium

@@ -1,0 +1,37 @@
+Month,Date,Category,Product_Name,Price_USD,Monthly_Units,Search_Interest,Review_Rating,Competition_Index,Growth_Rate_MoM,Market_Potential
+1,2024-01,Serum,Hyaluronic + B5 Barrier Serum,28.0,9200,95,4.7,75,15.2,High
+2,2024-02,Serum,Hyaluronic + B5 Barrier Serum,28.0,9600,98,4.7,76,4.3,High
+3,2024-03,Serum,Hyaluronic + B5 Barrier Serum,28.0,10300,104,4.8,77,7.3,High
+4,2024-04,Serum,Hyaluronic + B5 Barrier Serum,26.5,10800,108,4.8,78,4.9,High
+5,2024-05,Serum,Hyaluronic + B5 Barrier Serum,26.5,11500,114,4.8,80,6.5,High
+6,2024-06,Serum,Hyaluronic + B5 Barrier Serum,25.0,12600,122,4.8,82,9.6,High
+7,2024-07,Serum,Hyaluronic + B5 Barrier Serum,25.0,12100,118,82,4.8,-4.0,High
+8,2024-08,Serum,Hyaluronic + B5 Barrier Serum,25.0,13200,128,84,4.9,9.1,High
+9,2024-09,Serum,Hyaluronic + B5 Barrier Serum,25.0,13900,135,85,4.9,5.3,High
+10,2024-10,Serum,Hyaluronic + B5 Barrier Serum,24.0,15100,145,86,4.9,8.6,High
+11,2024-11,Serum,Hyaluronic + B5 Barrier Serum,22.0,19500,175,90,4.9,29.1,High
+12,2024-12,Serum,Hyaluronic + B5 Barrier Serum,22.0,21400,188,90,4.9,9.7,High
+1,2024-01,Sunscreen,Centella Daily UV Gel SPF50,19.5,8100,88,4.6,72,12.0,High
+2,2024-02,Sunscreen,Centella Daily UV Gel SPF50,19.5,8400,91,4.6,73,3.7,High
+3,2024-03,Sunscreen,Centella Daily UV Gel SPF50,19.0,9200,98,4.7,75,9.5,High
+4,2024-04,Sunscreen,Centella Daily UV Gel SPF50,19.0,10500,110,4.7,78,14.1,High
+5,2024-05,Sunscreen,Centella Daily UV Gel SPF50,18.0,12200,128,4.7,80,16.2,High
+6,2024-06,Sunscreen,Centella Daily UV Gel SPF50,18.0,14100,142,4.8,84,15.6,High
+7,2024-07,Sunscreen,Centella Daily UV Gel SPF50,18.0,14800,146,4.8,85,5.0,High
+8,2024-08,Sunscreen,Centella Daily UV Gel SPF50,18.0,13900,138,4.8,85,-6.1,High
+9,2024-09,Sunscreen,Centella Daily UV Gel SPF50,18.5,11800,119,4.7,82,-15.1,Medium
+10,2024-10,Sunscreen,Centella Daily UV Gel SPF50,19.0,9900,102,4.7,80,-16.1,Medium
+11,2024-11,Sunscreen,Centella Daily UV Gel SPF50,17.5,12400,120,4.7,82,25.3,High
+12,2024-12,Sunscreen,Centella Daily UV Gel SPF50,17.5,12900,125,4.7,82,4.0,High
+1,2024-01,Cleanser,Gentle Oat Amino Cleanser,15.0,5200,65,60,4.4,4.2,Medium
+2,2024-02,Cleanser,Gentle Oat Amino Cleanser,15.0,5400,67,61,4.4,3.8,Medium
+3,2024-03,Cleanser,Gentle Oat Amino Cleanser,14.5,5800,70,62,4.4,7.4,Medium
+4,2024-04,Cleanser,Gentle Oat Amino Cleanser,14.5,6000,72,63,4.5,3.4,Medium
+5,2024-05,Cleanser,Gentle Oat Amino Cleanser,14.0,6350,75,64,4.5,5.8,Medium
+6,2024-06,Cleanser,Gentle Oat Amino Cleanser,14.0,6700,78,65,4.5,5.5,Medium
+7,2024-07,Cleanser,Gentle Oat Amino Cleanser,14.0,6500,76,65,4.5,-3.0,Medium
+8,2024-08,Cleanser,Gentle Oat Amino Cleanser,14.0,6900,80,66,4.5,6.2,Medium
+9,2024-09,Cleanser,Gentle Oat Amino Cleanser,14.0,7200,82,67,4.5,4.3,Medium
+10,2024-10,Cleanser,Gentle Oat Amino Cleanser,13.5,7650,86,68,4.6,6.2,Medium
+11,2024-11,Cleanser,Gentle Oat Amino Cleanser,12.5,9200,98,72,4.6,20.3,Medium
+12,2024-12,Cleanser,Gentle Oat Amino Cleanser,12.5,9900,104,72,4.6,7.6,Medium

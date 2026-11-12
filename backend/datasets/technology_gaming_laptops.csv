@@ -1,0 +1,73 @@
+Month,Date,Product_Name,Brand,Segment,Price_USD,Units_Sold,Search_Volume_Index,Competition_Index,Rating,MoM_Growth_Rate,Sentiment_Score,Market_Potential
+1,2024-01,ROG Strix G16,Asus,High-End Gaming,1650,4200,88,72,4.6,12.5,0.85,High
+2,2024-02,ROG Strix G16,Asus,High-End Gaming,1650,4450,91,74,4.6,6.0,0.86,High
+3,2024-03,ROG Strix G16,Asus,High-End Gaming,1620,4800,94,75,4.7,7.9,0.88,High
+4,2024-04,ROG Strix G16,Asus,High-End Gaming,1600,4700,92,75,4.7,-2.1,0.87,High
+5,2024-05,ROG Strix G16,Asus,High-End Gaming,1580,5100,96,78,4.7,8.5,0.89,High
+6,2024-06,ROG Strix G16,Asus,High-End Gaming,1550,5600,100,80,4.8,9.8,0.91,High
+7,2024-07,ROG Strix G16,Asus,High-End Gaming,1550,5400,98,82,4.8,-3.6,0.90,High
+8,2024-08,ROG Strix G16,Asus,High-End Gaming,1520,5900,105,85,4.8,9.3,0.92,High
+9,2024-09,ROG Strix G16,Asus,High-End Gaming,1500,6300,112,85,4.8,6.8,0.93,High
+10,2024-10,ROG Strix G16,Asus,High-End Gaming,1480,6800,120,86,4.9,7.9,0.94,High
+11,2024-11,ROG Strix G16,Asus,High-End Gaming,1450,8200,135,90,4.9,20.6,0.95,High
+12,2024-12,ROG Strix G16,Asus,High-End Gaming,1420,9500,148,92,4.9,15.9,0.96,High
+1,2024-01,TUF Gaming A15,Asus,Mid-Range Gaming,999,6500,95,65,4.4,8.2,0.78,High
+2,2024-02,TUF Gaming A15,Asus,Mid-Range Gaming,999,6700,98,66,4.4,3.1,0.79,High
+3,2024-03,TUF Gaming A15,Asus,Mid-Range Gaming,980,7100,102,68,4.5,6.0,0.81,High
+4,2024-04,TUF Gaming A15,Asus,Mid-Range Gaming,950,7300,104,70,4.5,2.8,0.80,High
+5,2024-05,TUF Gaming A15,Asus,Mid-Range Gaming,950,7800,110,72,4.5,6.8,0.82,High
+6,2024-06,TUF Gaming A15,Asus,Mid-Range Gaming,920,8400,115,75,4.6,7.7,0.84,High
+7,2024-07,TUF Gaming A15,Asus,Mid-Range Gaming,920,8100,112,75,4.6,-3.6,0.83,High
+8,2024-08,TUF Gaming A15,Asus,Mid-Range Gaming,899,8900,122,78,4.6,9.9,0.85,High
+9,2024-09,TUF Gaming A15,Asus,Mid-Range Gaming,899,9400,128,80,4.6,5.6,0.86,High
+10,2024-10,TUF Gaming A15,Asus,Mid-Range Gaming,880,10200,136,82,4.7,8.5,0.88,High
+11,2024-11,TUF Gaming A15,Asus,Mid-Range Gaming,850,12400,150,88,4.7,21.6,0.90,High
+12,2024-12,TUF Gaming A15,Asus,Mid-Range Gaming,830,13900,165,90,4.7,12.1,0.91,High
+1,2024-01,Legion 5 Pro,Lenovo,Mid-Range Gaming,1250,5100,82,60,4.5,5.4,0.80,High
+2,2024-02,Legion 5 Pro,Lenovo,Mid-Range Gaming,1250,5300,85,62,4.5,3.9,0.81,High
+3,2024-03,Legion 5 Pro,Lenovo,Mid-Range Gaming,1220,5600,88,64,4.5,5.7,0.82,High
+4,2024-04,Legion 5 Pro,Lenovo,Mid-Range Gaming,1200,5800,90,65,4.6,3.6,0.83,High
+5,2024-05,Legion 5 Pro,Lenovo,Mid-Range Gaming,1199,6200,94,66,4.6,6.9,0.84,High
+6,2024-06,Legion 5 Pro,Lenovo,Mid-Range Gaming,1150,6700,99,70,4.6,8.1,0.85,High
+7,2024-07,Legion 5 Pro,Lenovo,Mid-Range Gaming,1150,6500,96,70,4.6,-3.0,0.84,High
+8,2024-08,Legion 5 Pro,Lenovo,Mid-Range Gaming,1120,7100,105,72,4.7,9.2,0.86,High
+9,2024-09,Legion 5 Pro,Lenovo,Mid-Range Gaming,1099,7600,110,75,4.7,7.0,0.87,High
+10,2024-10,Legion 5 Pro,Lenovo,Mid-Range Gaming,1080,8300,118,78,4.7,9.2,0.88,High
+11,2024-11,Legion 5 Pro,Lenovo,Mid-Range Gaming,1050,10100,132,82,4.8,21.7,0.90,High
+12,2024-12,Legion 5 Pro,Lenovo,Mid-Range Gaming,1020,11500,145,85,4.8,13.9,0.91,High
+1,2024-01,Katana 15,MSI,Budget Gaming,850,3800,65,58,3.9,2.1,0.62,Medium
+2,2024-02,Katana 15,MSI,Budget Gaming,850,3900,66,58,3.9,2.6,0.63,Medium
+3,2024-03,Katana 15,MSI,Budget Gaming,830,4100,68,60,4.0,5.1,0.65,Medium
+4,2024-04,Katana 15,MSI,Budget Gaming,800,4050,67,61,4.0,-1.2,0.64,Medium
+5,2024-05,Katana 15,MSI,Budget Gaming,799,4300,70,62,4.0,6.2,0.66,Medium
+6,2024-06,Katana 15,MSI,Budget Gaming,780,4500,72,64,4.1,4.7,0.67,Medium
+7,2024-07,Katana 15,MSI,Budget Gaming,780,4400,71,65,4.1,-2.2,0.66,Medium
+8,2024-08,Katana 15,MSI,Budget Gaming,750,4700,75,66,4.1,6.8,0.68,Medium
+9,2024-09,Katana 15,MSI,Budget Gaming,740,4900,78,68,4.1,4.3,0.69,Medium
+10,2024-10,Katana 15,MSI,Budget Gaming,720,5300,82,70,4.2,8.2,0.71,Medium
+11,2024-11,Katana 15,MSI,Budget Gaming,699,6200,90,72,4.2,17.0,0.73,Medium
+12,2024-12,Katana 15,MSI,Budget Gaming,680,6800,96,75,4.2,9.7,0.74,Medium
+1,2024-01,Victus 16,HP,Budget Gaming,799,4100,70,55,4.1,3.5,0.70,Medium
+2,2024-02,Victus 16,HP,Budget Gaming,799,4250,72,56,4.1,3.7,0.71,Medium
+3,2024-03,Victus 16,HP,Budget Gaming,780,4500,74,58,4.1,5.9,0.72,Medium
+4,2024-04,Victus 16,HP,Budget Gaming,760,4450,73,59,4.2,-1.1,0.71,Medium
+5,2024-05,Victus 16,HP,Budget Gaming,750,4750,76,60,4.2,6.7,0.73,Medium
+6,2024-06,Victus 16,HP,Budget Gaming,730,5050,80,62,4.2,6.3,0.74,Medium
+7,2024-07,Victus 16,HP,Budget Gaming,730,4900,79,63,4.2,-3.0,0.73,Medium
+8,2024-08,Victus 16,HP,Budget Gaming,710,5350,84,65,4.3,9.2,0.76,Medium
+9,2024-09,Victus 16,HP,Budget Gaming,699,5700,88,66,4.3,6.5,0.77,Medium
+10,2024-10,Victus 16,HP,Budget Gaming,680,6200,92,68,4.3,8.8,0.78,Medium
+11,2024-11,Victus 16,HP,Budget Gaming,650,7300,105,72,4.4,17.7,0.80,High
+12,2024-12,Victus 16,HP,Budget Gaming,630,8100,115,74,4.4,11.0,0.81,High
+1,2024-01,Alienware m18,Dell,Ultra Premium,2800,1200,45,40,4.3,-1.5,0.75,Low
+2,2024-02,Alienware m18,Dell,Ultra Premium,2800,1180,44,40,4.3,-1.7,0.74,Low
+3,2024-03,Alienware m18,Dell,Ultra Premium,2750,1250,46,42,4.4,5.9,0.76,Low
+4,2024-04,Alienware m18,Dell,Ultra Premium,2750,1220,45,42,4.4,-2.4,0.75,Low
+5,2024-05,Alienware m18,Dell,Ultra Premium,2700,1300,48,44,4.4,6.6,0.77,Medium
+6,2024-06,Alienware m18,Dell,Ultra Premium,2650,1350,50,45,4.5,3.8,0.78,Medium
+7,2024-07,Alienware m18,Dell,Ultra Premium,2650,1310,49,45,4.5,-3.0,0.77,Medium
+8,2024-08,Alienware m18,Dell,Ultra Premium,2600,1400,52,46,4.5,6.9,0.79,Medium
+9,2024-09,Alienware m18,Dell,Ultra Premium,2550,1450,54,48,4.5,3.6,0.80,Medium
+10,2024-10,Alienware m18,Dell,Ultra Premium,2500,1550,58,50,4.6,6.9,0.81,Medium
+11,2024-11,Alienware m18,Dell,Ultra Premium,2450,1850,68,54,4.6,19.4,0.83,Medium
+12,2024-12,Alienware m18,Dell,Ultra Premium,2400,2100,75,56,4.6,13.5,0.84,Medium

@@ -1,0 +1,49 @@
+Month,Date,Audio_Device,Category,Price_USD,Monthly_Units_Sold,Search_Trend_Score,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,9800,125,82,4.9,21.5,High
+2,2024-02,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,9996,127,82,4.9,21.9,High
+3,2024-03,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,10192,130,82,4.9,22.3,High
+4,2024-04,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,10388,132,82,4.9,22.7,High
+5,2024-05,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,10584,135,82,4.9,23.1,High
+6,2024-06,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,10780,137,82,4.9,23.5,High
+7,2024-07,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,10976,140,82,4.9,23.9,High
+8,2024-08,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,11172,142,82,4.9,24.3,High
+9,2024-09,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,11368,145,82,4.9,24.7,High
+10,2024-10,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,380,11564,147,82,4.9,25.1,High
+11,2024-11,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,361,13523,150,82,4.9,25.5,High
+12,2024-12,Tai Nghe Chống Ồn Sony WH-1000XM5,Wireless ANC Headphones,361,13720,152,82,4.9,25.9,High
+1,2024-01,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,28500,145,90,4.8,24.8,High
+2,2024-02,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,29070,147,90,4.8,25.2,High
+3,2024-03,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,29640,150,90,4.8,25.6,High
+4,2024-04,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,30210,153,90,4.8,26.0,High
+5,2024-05,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,30780,156,90,4.8,26.4,High
+6,2024-06,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,31350,159,90,4.8,26.8,High
+7,2024-07,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,31920,162,90,4.8,27.2,High
+8,2024-08,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,32490,165,90,4.8,27.6,High
+9,2024-09,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,33060,168,90,4.8,28.0,High
+10,2024-10,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,249,33630,171,90,4.8,28.4,High
+11,2024-11,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,236,39330,174,90,4.8,28.8,High
+12,2024-12,Tai Nghe True Wireless Apple AirPods Pro 2,TWS Earbuds,236,39900,176,90,4.8,29.2,High
+1,2024-01,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,14200,110,78,4.8,18.2,High
+2,2024-02,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,14484,112,78,4.8,18.6,High
+3,2024-03,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,14768,114,78,4.8,19.0,High
+4,2024-04,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,15052,116,78,4.8,19.4,High
+5,2024-05,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,15336,118,78,4.8,19.8,High
+6,2024-06,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,15620,121,78,4.8,20.2,High
+7,2024-07,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,15904,123,78,4.8,20.6,High
+8,2024-08,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,16188,125,78,4.8,21.0,High
+9,2024-09,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,16472,127,78,4.8,21.4,High
+10,2024-10,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,169,16756,129,78,4.8,21.8,High
+11,2024-11,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,160,19596,132,78,4.8,22.2,High
+12,2024-12,Loa Di Động Bluetooth Marshall Emberton II,Portable Speaker,160,19880,134,78,4.8,22.6,High
+1,2024-01,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,5600,88,74,4.7,11.0,Medium
+2,2024-02,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,5712,89,74,4.7,11.4,Medium
+3,2024-03,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,5824,91,74,4.7,11.8,Medium
+4,2024-04,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,5936,93,74,4.7,12.2,Medium
+5,2024-05,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6048,95,74,4.7,12.6,Medium
+6,2024-06,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6160,96,74,4.7,13.0,Medium
+7,2024-07,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6272,98,74,4.7,13.4,Medium
+8,2024-08,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6384,100,74,4.7,13.8,Medium
+9,2024-09,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6496,102,74,4.7,14.2,Medium
+10,2024-10,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,450,6608,103,74,4.7,14.6,Medium
+11,2024-11,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,427,7727,105,74,4.7,15.0,Medium
+12,2024-12,Hệ Thống Loa Thanh Soundbar Samsung Q-Series,Home Theater Audio,427,7839,107,74,4.7,15.4,Medium

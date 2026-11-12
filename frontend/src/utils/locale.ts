@@ -1,0 +1,43 @@
+const labels: Record<string, string> = {
+  'Technology & Gaming': 'Công nghệ & Máy tính',
+  'Smartphones & Mobile': 'Điện thoại & Di động',
+  'Fashion & E-Commerce': 'Thời trang & Thương mại điện tử',
+  'Food & Beverage': 'Ẩm thực & Đồ uống',
+  'Beauty & Skincare': 'Mỹ phẩm & Chăm sóc da',
+  'Electric Vehicles': 'Xe điện',
+  'Education & EdTech': 'Giáo dục & Công nghệ giáo dục',
+  'Healthcare & Fitness': 'Sức khỏe & Thể chất',
+  'Smart Home & IoT': 'Nhà thông minh & Thiết bị kết nối',
+  'Digital Services & SaaS': 'Dịch vụ số & Phần mềm',
+  'FMCG & Consumer Goods': 'Hàng tiêu dùng nhanh',
+  'Real Estate & Housing': 'Bất động sản & Nhà ở',
+  'Tourism & Hospitality': 'Du lịch & Dịch vụ lưu trú',
+  'FinTech & Digital Finance': 'Công nghệ tài chính & Tài chính số',
+  'Logistics & Supply Chain': 'Vận tải & Chuỗi cung ứng',
+  'Audio & Consumer Electronics': 'Âm thanh & Điện tử tiêu dùng',
+  'Gaming Laptops Market 2024': 'Thị trường máy tính chơi game 2024',
+  'Global Smartphone Trends 2023-2024': 'Xu hướng điện thoại thế giới 2023–2024',
+  'Fashion E-Commerce Orders & Trends': 'Đơn hàng và xu hướng thời trang trực tuyến',
+  'Specialty Coffee & RTD Beverage Market': 'Thị trường cà phê và đồ uống pha sẵn',
+  'Skincare & Beauty Product Trends': 'Xu hướng mỹ phẩm và chăm sóc da',
+  'Electric Vehicles Global Registrations': 'Đăng ký xe điện trên thế giới',
+  'Online Education & EdTech Courses': 'Giáo dục trực tuyến và khóa học công nghệ',
+  'Smart Health & Fitness Wearables': 'Thiết bị đeo theo dõi sức khỏe và vận động',
+  'Smart Home & IoT Consumer Devices': 'Nhà thông minh và thiết bị kết nối',
+  'Digital Cloud SaaS & dữ liệu Services': 'Phần mềm đám mây và dịch vụ trí tuệ nhân tạo',
+  'FMCG & Packaged Food Market': 'Hàng tiêu dùng nhanh và thực phẩm đóng gói',
+  'Vietnam Real Estate & Urban Housing': 'Bất động sản và nhà ở đô thị Việt Nam',
+  'Tourism, Hospitality & Travel Services': 'Du lịch, lưu trú và dịch vụ lữ hành',
+  'Digital Banking & FinTech Ecosystem': 'Ngân hàng số và công nghệ tài chính',
+  'E-Commerce Logistics & Express Delivery': 'Vận chuyển thương mại điện tử và chuyển phát nhanh',
+  'Premium Audio & Wireless Electronics': 'Âm thanh cao cấp và thiết bị điện tử không dây',
+  'High': 'Cao',
+  'Medium': 'Trung bình',
+  'Low': 'Thấp',
+  'Increasing': 'Tăng',
+  'Decreasing': 'Giảm'
+};
+
+export function viLabel(value: string) {
+  return labels[value] || value;
+}

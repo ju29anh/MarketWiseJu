@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: marketwise-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: PUBLIC_DEMO
+        value: "true"
+      - key: ALLOWED_ORIGINS
+        value: ""
+      - key: MAX_UPLOAD_MB
+        value: "5"
+      - key: MAX_DATASET_ROWS
+        value: "5000"
+      - key: MAX_DATASET_COLUMNS
+        value: "50"
+      - key: MAX_DATASET_MEMORY_MB
+        value: "32"
+      - key: MAX_RESEARCH_TRAINING
+        value: "1"
+      - key: MAX_PENDING_JOBS
+        value: "3"
+      - key: RATE_LIMIT_REQUESTS
+        value: "12"
+      - key: RATE_LIMIT_WINDOW_SECONDS
+        value: "60"

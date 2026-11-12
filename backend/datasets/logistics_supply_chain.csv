@@ -1,0 +1,49 @@
+Month,Date,Logistics_Service,Delivery_Type,Avg_Rate_USD,Monthly_Shipments_K,Search_Volume,Competition_Score,Customer_Rating,YoY_Growth_Pct,Market_Potential
+1,2024-01,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.2,45000,130,88,4.7,32.4,High
+2,2024-02,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.21,45990,132,88,4.7,32.8,High
+3,2024-03,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.21,46980,135,88,4.7,33.2,High
+4,2024-04,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.22,47970,137,88,4.7,33.6,High
+5,2024-05,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.22,48960,140,88,4.7,34.0,High
+6,2024-06,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.23,49949,143,88,4.7,34.4,High
+7,2024-07,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.24,50940,145,88,4.7,34.8,High
+8,2024-08,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.24,51929,148,88,4.7,35.2,High
+9,2024-09,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.25,52920,150,88,4.7,35.6,High
+10,2024-10,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.25,53910,153,88,4.7,36.0,High
+11,2024-11,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.26,61649,156,88,4.7,36.4,High
+12,2024-12,Giao Hàng Hỏa Tốc Shopee Express,Last-Mile Delivery,1.27,62639,158,88,4.7,36.8,High
+1,2024-01,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.5,21000,108,80,4.8,25.1,High
+2,2024-02,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.51,21462,110,80,4.8,25.5,High
+3,2024-03,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.52,21924,112,80,4.8,25.9,High
+4,2024-04,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.54,22386,114,80,4.8,26.3,High
+5,2024-05,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.55,22848,116,80,4.8,26.7,High
+6,2024-06,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.56,23309,118,80,4.8,27.1,High
+7,2024-07,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.58,23772,120,80,4.8,27.5,High
+8,2024-08,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.59,24234,123,80,4.8,27.9,High
+9,2024-09,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.6,24696,125,80,4.8,28.3,High
+10,2024-10,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.61,25158,127,80,4.8,28.7,High
+11,2024-11,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.62,28769,129,80,4.8,29.1,High
+12,2024-12,Dịch Vụ Kho Vận Fulfillment TikiNOW,E-Commerce Fulfillment,2.64,29231,131,80,4.8,29.5,High
+1,2024-01,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.0,6800,96,75,4.9,14.8,High
+2,2024-02,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.14,6949,97,75,4.9,15.2,High
+3,2024-03,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.28,7099,99,75,4.9,15.6,High
+4,2024-04,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.42,7248,101,75,4.9,16.0,High
+5,2024-05,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.56,7398,103,75,4.9,16.4,High
+6,2024-06,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.7,7547,105,75,4.9,16.8,High
+7,2024-07,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.84,7697,107,75,4.9,17.2,High
+8,2024-08,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,28.98,7847,109,75,4.9,17.6,High
+9,2024-09,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,29.12,7996,111,75,4.9,18.0,High
+10,2024-10,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,29.26,8146,113,75,4.9,18.4,High
+11,2024-11,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,29.4,9316,115,75,4.9,18.8,High
+12,2024-12,Vận Chuyển Quốc Tế DHL Express,Cross-Border Logistics,29.54,9465,117,75,4.9,19.2,High
+1,2024-01,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.8,34000,115,84,4.6,21.0,Medium
+2,2024-02,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.81,34748,117,84,4.6,21.4,Medium
+3,2024-03,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.82,35496,119,84,4.6,21.8,Medium
+4,2024-04,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.83,36244,121,84,4.6,22.2,Medium
+5,2024-05,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.84,36992,124,84,4.6,22.6,Medium
+6,2024-06,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.84,37739,126,84,4.6,23.0,Medium
+7,2024-07,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.85,38488,128,84,4.6,23.4,Medium
+8,2024-08,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.86,39236,131,84,4.6,23.8,Medium
+9,2024-09,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.87,39984,133,84,4.6,24.2,Medium
+10,2024-10,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.88,40732,135,84,4.6,24.6,Medium
+11,2024-11,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.89,46579,138,84,4.6,25.0,Medium
+12,2024-12,Giao Vận Liên Tỉnh Tiết Kiệm GHTK,Inter-City Ground Express,1.9,47328,140,84,4.6,25.4,Medium

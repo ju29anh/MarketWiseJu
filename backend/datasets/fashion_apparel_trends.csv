@@ -1,0 +1,49 @@
+Month,Date,SubCategory,Product_Type,Average_Price,Monthly_Orders,Search_Trend_Score,Discount_Pct,Customer_Rating,Return_Rate_Pct,YoY_Growth,Market_Potential
+1,2024-01,Streetwear,Oversized Graphic Hoodie,48.5,8200,92,15,4.6,8.2,18.5,High
+2,2024-02,Streetwear,Oversized Graphic Hoodie,48.5,8600,94,15,4.6,8.0,4.9,High
+3,2024-03,Streetwear,Oversized Graphic Hoodie,46.0,9100,98,18,4.7,7.8,5.8,High
+4,2024-04,Streetwear,Oversized Graphic Hoodie,45.0,8900,95,20,4.7,7.9,-2.2,High
+5,2024-05,Streetwear,Oversized Graphic Hoodie,45.0,9400,102,20,4.7,7.6,5.6,High
+6,2024-06,Streetwear,Oversized Graphic Hoodie,42.0,10200,110,25,4.8,7.4,8.5,High
+7,2024-07,Streetwear,Oversized Graphic Hoodie,42.0,9800,105,25,4.8,7.5,-3.9,High
+8,2024-08,Streetwear,Oversized Graphic Hoodie,44.0,10800,115,20,4.8,7.2,10.2,High
+9,2024-09,Streetwear,Oversized Graphic Hoodie,46.0,11500,122,15,4.8,7.0,6.5,High
+10,2024-10,Streetwear,Oversized Graphic Hoodie,48.0,12800,135,15,4.9,6.8,11.3,High
+11,2024-11,Streetwear,Oversized Graphic Hoodie,45.0,16500,155,25,4.9,6.5,28.9,High
+12,2024-12,Streetwear,Oversized Graphic Hoodie,44.0,18200,168,25,4.9,6.2,10.3,High
+1,2024-01,Athleisure,Seamless Yoga Leggings,38.0,7500,88,10,4.5,6.5,14.2,High
+2,2024-02,Athleisure,Seamless Yoga Leggings,38.0,7900,90,10,4.5,6.4,5.3,High
+3,2024-03,Athleisure,Seamless Yoga Leggings,36.5,8400,95,12,4.6,6.2,6.3,High
+4,2024-04,Athleisure,Seamless Yoga Leggings,36.5,8700,97,12,4.6,6.1,3.6,High
+5,2024-05,Athleisure,Seamless Yoga Leggings,35.0,9200,101,15,4.6,5.9,5.7,High
+6,2024-06,Athleisure,Seamless Yoga Leggings,34.0,9800,106,18,4.7,5.7,6.5,High
+7,2024-07,Athleisure,Seamless Yoga Leggings,34.0,9500,103,18,4.7,5.8,-3.1,High
+8,2024-08,Athleisure,Seamless Yoga Leggings,35.0,10300,112,15,4.7,5.6,8.4,High
+9,2024-09,Athleisure,Seamless Yoga Leggings,36.0,10900,118,12,4.7,5.5,5.8,High
+10,2024-10,Athleisure,Seamless Yoga Leggings,36.0,11800,126,12,4.8,5.4,8.3,High
+11,2024-11,Athleisure,Seamless Yoga Leggings,32.0,14900,145,22,4.8,5.2,26.3,High
+12,2024-12,Athleisure,Seamless Yoga Leggings,32.0,16200,152,22,4.8,5.1,8.7,High
+1,2024-01,Casual Wear,Linen Button-down Shirt,32.0,4100,62,10,4.2,11.2,3.1,Medium
+2,2024-02,Casual Wear,Linen Button-down Shirt,32.0,4300,64,10,4.2,11.0,4.9,Medium
+3,2024-03,Casual Wear,Linen Button-down Shirt,31.0,4800,70,12,4.2,10.8,11.6,Medium
+4,2024-04,Casual Wear,Linen Button-down Shirt,30.0,5400,78,15,4.3,10.5,12.5,Medium
+5,2024-05,Casual Wear,Linen Button-down Shirt,30.0,6100,85,15,4.3,10.2,13.0,Medium
+6,2024-06,Casual Wear,Linen Button-down Shirt,28.0,6800,92,20,4.3,10.0,11.5,Medium
+7,2024-07,Casual Wear,Linen Button-down Shirt,28.0,6500,88,20,4.3,10.1,-4.4,Medium
+8,2024-08,Casual Wear,Linen Button-down Shirt,29.0,5900,80,18,4.3,10.4,-9.2,Medium
+9,2024-09,Casual Wear,Linen Button-down Shirt,30.0,5100,72,15,4.2,10.8,-13.6,Medium
+10,2024-10,Casual Wear,Linen Button-down Shirt,31.0,4500,65,12,4.2,11.1,-11.8,Medium
+11,2024-11,Casual Wear,Linen Button-down Shirt,28.0,5300,74,22,4.2,11.3,17.8,Medium
+12,2024-12,Casual Wear,Linen Button-down Shirt,27.0,5600,76,25,4.2,11.5,5.7,Medium
+1,2024-01,Formal Wear,Slim Fit Wool Blend Suit,195.0,1400,45,8,4.3,-1.2,14.5,Low
+2,2024-02,Formal Wear,Slim Fit Wool Blend Suit,195.0,1380,44,8,4.3,-1.4,14.6,Low
+3,2024-03,Formal Wear,Slim Fit Wool Blend Suit,190.0,1450,47,10,4.3,5.1,14.2,Low
+4,2024-04,Formal Wear,Slim Fit Wool Blend Suit,190.0,1520,49,10,4.4,4.8,14.0,Medium
+5,2024-05,Formal Wear,Slim Fit Wool Blend Suit,185.0,1650,54,12,4.4,8.6,13.8,Medium
+6,2024-06,Formal Wear,Slim Fit Wool Blend Suit,185.0,1720,56,12,4.4,4.2,13.5,Medium
+7,2024-07,Formal Wear,Slim Fit Wool Blend Suit,180.0,1580,51,15,4.4,-8.1,13.9,Low
+8,2024-08,Formal Wear,Slim Fit Wool Blend Suit,180.0,1620,53,15,4.4,2.5,13.7,Low
+9,2024-09,Formal Wear,Slim Fit Wool Blend Suit,185.0,1750,58,12,4.5,8.0,13.4,Medium
+10,2024-10,Formal Wear,Slim Fit Wool Blend Suit,190.0,1880,62,10,4.5,7.4,13.2,Medium
+11,2024-11,Formal Wear,Slim Fit Wool Blend Suit,175.0,2250,75,20,4.5,19.7,13.0,Medium
+12,2024-12,Formal Wear,Slim Fit Wool Blend Suit,170.0,2480,82,22,4.5,10.2,12.8,Medium

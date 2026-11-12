@@ -1,0 +1,37 @@
+Month,Date,EV_Model,Manufacturer,Body_Type,Price_USD,Monthly_Registrations,Search_Volume,Range_Km,Rating,YoY_Growth_Pct,Competition_Level,Market_Potential
+1,2024-01,Model Y,Tesla,Crossover,44000,12500,96,455,4.7,28.5,78,High
+2,2024-02,Model Y,Tesla,Crossover,43500,13100,98,455,4.7,4.8,79,High
+3,2024-03,Model Y,Tesla,Crossover,43000,14200,105,455,4.8,8.4,80,High
+4,2024-04,Model Y,Tesla,Crossover,43000,13900,102,455,4.8,-2.1,80,High
+5,2024-05,Model Y,Tesla,Crossover,42500,14800,108,455,4.8,6.5,82,High
+6,2024-06,Model Y,Tesla,Crossover,42000,16200,118,455,4.8,9.5,84,High
+7,2024-07,Model Y,Tesla,Crossover,42000,15700,115,455,4.8,-3.1,85,High
+8,2024-08,Model Y,Tesla,Crossover,41500,16800,122,455,4.9,7.0,86,High
+9,2024-09,Model Y,Tesla,Crossover,41000,17900,130,455,4.9,6.5,88,High
+10,2024-10,Model Y,Tesla,Crossover,40500,19200,140,455,4.9,7.3,89,High
+11,2024-11,Model Y,Tesla,Crossover,39900,23500,165,455,4.9,22.4,92,High
+12,2024-12,Model Y,Tesla,Crossover,39500,26800,180,455,4.9,14.0,94,High
+1,2024-01,Atto 3,BYD,Compact SUV,32000,9400,85,420,4.5,35.2,74,High
+2,2024-02,Atto 3,BYD,Compact SUV,32000,9900,88,420,4.5,5.3,75,High
+3,2024-03,Atto 3,BYD,Compact SUV,31500,10800,94,420,4.6,9.1,76,High
+4,2024-04,Atto 3,BYD,Compact SUV,31500,11200,96,420,4.6,3.7,77,High
+5,2024-05,Atto 3,BYD,Compact SUV,31000,12100,102,420,4.6,8.0,78,High
+6,2024-06,Atto 3,BYD,Compact SUV,30500,13300,110,420,4.6,9.9,80,High
+7,2024-07,Atto 3,BYD,Compact SUV,30500,12900,107,420,4.6,-3.0,81,High
+8,2024-08,Atto 3,BYD,Compact SUV,30000,13900,115,420,4.7,7.8,82,High
+9,2024-09,Atto 3,BYD,Compact SUV,29500,14900,122,420,4.7,7.2,84,High
+10,2024-10,Atto 3,BYD,Compact SUV,29000,16200,132,420,4.7,8.7,85,High
+11,2024-11,Atto 3,BYD,Compact SUV,28500,19800,152,420,4.7,22.2,88,High
+12,2024-12,Atto 3,BYD,Compact SUV,28000,22400,168,420,4.8,13.1,90,High
+1,2024-01,VF 8,VinFast,Mid-Size SUV,38000,2400,62,471,4.2,14.5,65,Medium
+2,2024-02,VF 8,VinFast,Mid-Size SUV,38000,2550,64,471,4.2,6.3,66,Medium
+3,2024-03,VF 8,VinFast,Mid-Size SUV,37500,2800,68,471,4.2,9.8,67,Medium
+4,2024-04,VF 8,VinFast,Mid-Size SUV,37500,2950,70,471,4.3,5.4,68,Medium
+5,2024-05,VF 8,VinFast,Mid-Size SUV,37000,3200,74,471,4.3,8.5,69,Medium
+6,2024-06,VF 8,VinFast,Mid-Size SUV,36500,3550,78,471,4.3,10.9,70,Medium
+7,2024-07,VF 8,VinFast,Mid-Size SUV,36500,3420,76,471,4.3,-3.7,70,Medium
+8,2024-08,VF 8,VinFast,Mid-Size SUV,36000,3750,81,471,4.4,9.6,72,Medium
+9,2024-09,VF 8,VinFast,Mid-Size SUV,35500,4050,85,471,4.4,8.0,73,Medium
+10,2024-10,VF 8,VinFast,Mid-Size SUV,35000,4400,90,471,4.4,8.6,75,Medium
+11,2024-11,VF 8,VinFast,Mid-Size SUV,34500,5300,102,471,4.4,20.5,78,Medium
+12,2024-12,VF 8,VinFast,Mid-Size SUV,34000,6100,112,471,4.5,15.1,80,Medium
